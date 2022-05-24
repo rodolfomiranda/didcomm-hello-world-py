@@ -1,2 +1,4 @@
 didcomm
 peerdid
+matplotlib
+qrcode
