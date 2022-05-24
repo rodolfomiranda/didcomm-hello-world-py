@@ -2,3 +2,4 @@ didcomm
 peerdid
 matplotlib
 qrcode
+requests
